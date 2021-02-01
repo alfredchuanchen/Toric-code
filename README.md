@@ -4,10 +4,10 @@ This is a project about studying the flux inside a Fermi liquid, which is based 
 
 The function of the files are the following:
 
-parameterize.m
+parameterize.m:
 establish the parameterization of the model, like (linear) system size, hopping amplitute, etc.
 
-H_BdG.m
+H_BdG.m:
 build up the BdG Hamiltonian, which depends on the position of the flux
 
 
