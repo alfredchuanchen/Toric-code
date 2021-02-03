@@ -1,5 +1,5 @@
 ## Chern number for the lattice model
-This is a project about studying the flux inside a Fermi liquid, which is based on dualization between a spin system and fermion & boson system.
+This is a project about studying the flux inside a Fermi liquid, which is based on dualization between a spin system and fermion-boson system.
 
 
 The function of the files are the following:
